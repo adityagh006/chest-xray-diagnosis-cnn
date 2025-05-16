@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.npz
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# OneDrive metadata
+*.tmp
